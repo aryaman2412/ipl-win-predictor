@@ -1,2 +1,2 @@
-# ipl-win-predictor
-ipl_win_predictor
+The IPL Win Predictor is a machine learning application built with Python and Streamlit, designed to predict the winning probabilities of teams in the Indian Premier League (IPL). By analyzing factors such as current score, target score, overs completed, and wickets lost, users can gain insights into match outcomes. The app features an interactive web interface that allows users to select teams and input match data for real-time predictions. To get started, clone the repository, install the required packages, and run the Streamlit application.
+
